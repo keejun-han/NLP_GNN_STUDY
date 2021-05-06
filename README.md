@@ -1,6 +1,9 @@
 # NLP_GNN_STUDY
 
-For sample datasets, please refer to the below:
+### Members
+    Keejun-han, Cheonsol Lee, Soyoung Cho
+
+### Dataset
 1. NAVER sentiment movie corpus: https://github.com/e9t/nsmc
 2. KORQUAD: https://korquad.github.io/
 
