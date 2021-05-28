@@ -22,4 +22,6 @@
 - Practice: Predicting sentiment based on Naver reviews
 - Presenter: Soyoung Cho
 
-### (2021.06.02) TBD
+### (2021.06.09) IEEE BigComp 2020 research paper review about BERT
+- Purpose : We challenge the IEEE BicComp 2022 conference by reviewing papers using BERT.
+- Presenter : Keejun Han / Cheonsol Lee / Soyoung Cho
