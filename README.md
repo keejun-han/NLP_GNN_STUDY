@@ -12,7 +12,7 @@
 - Presenter: Keejun Han
 
 ### (2021.05.06) Word2Vec, Doc2Vec
-- (Word2Vec) Efficient Estimation of Word Representations in Vector Space,
+- (Word2Vec) Efficient Estimation of Word Representations in Vector Space
 - (Doc2Vec) Distributed Representations of Sentences and Documents
 - Practice: Predicting similar movies based on Naver reviews
 - Presenter: Cheonsol Lee
