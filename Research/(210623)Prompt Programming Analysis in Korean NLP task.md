@@ -1,4 +1,4 @@
-## Effectiveness of Prompt Programming in Korean NLP task
+## Prompt Programming Analysis in Korean NLP task
 
 ### Related Works
 - Automatic search for discrete prompt
