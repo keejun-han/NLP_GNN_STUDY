@@ -30,7 +30,7 @@
 - Purpose : OTT dataset building(Benchmark)
 - Direction : 
     - (IEEE BigComp 2022) OTT dataset building(Movielens, Netflix, Watcher, etc)
-    - (SCI Journal) Using GNN, Search and Recommender system applications on SmartTV
+    - (SCI Journal) Search and Recommender system Using GNN on SmartTV
 - To do
     - Search : movie dataset
     - Attributes explationation : table, sample
