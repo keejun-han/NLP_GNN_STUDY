@@ -33,6 +33,5 @@
     - (SCI Journal) Search and Recommender system Using GNN on SmartTV
 - To do
     - Search : movie dataset
-    - Attributes explationation : table, sample
     - Search : related works about linking of movie dataset
 - Presenter : Cheonsol Lee
