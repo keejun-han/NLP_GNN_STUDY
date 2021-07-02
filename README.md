@@ -22,6 +22,18 @@
 - Practice: Predicting sentiment based on Naver reviews
 - Presenter: Soyoung Cho
 
-### (2021.06.09) IEEE BigComp 2020 research paper review about BERT
+### (2021.06.09) Research paper review about BERT
 - Purpose : We challenge the IEEE BicComp 2022 conference by reviewing papers using BERT.
 - Presenter : Keejun Han / Cheonsol Lee / Soyoung Cho
+
+### (2021.07.08) Graph Neural Network(GNN), OTT dataset building
+- Purpose : OTT dataset building(Benchmark)
+- Direction : 
+    - (IEEE BigComp 2022) OTT dataset building(Movielens, Netflix, Watcher, etc)
+    - (SCI Journal) Using GNN, Search and Recommender system applications on SmartTV
+- To do
+    - Search : movie dataset
+    - Attributes explationation : table, sample
+    - Search about related works(linking of movie dataset)
+- Presenter : Cheonsol Lee
+- 
