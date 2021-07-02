@@ -32,6 +32,7 @@
     - (IEEE BigComp 2022) OTT dataset building(Movielens, Netflix, Watcher, etc)
     - (SCI Journal) Search and Recommender system Using GNN on SmartTV
 - To do
+    - Study : GNN
     - Search : movie dataset
     - Search : related works about linking of movie dataset
 - Presenter : Cheonsol Lee
