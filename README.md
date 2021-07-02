@@ -36,4 +36,3 @@
     - Attributes explationation : table, sample
     - Search about related works(linking of movie dataset)
 - Presenter : Cheonsol Lee
-- 
