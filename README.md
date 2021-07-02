@@ -34,5 +34,5 @@
 - To do
     - Search : movie dataset
     - Attributes explationation : table, sample
-    - Search about related works(linking of movie dataset)
+    - Search : related works about linking of movie dataset
 - Presenter : Cheonsol Lee
