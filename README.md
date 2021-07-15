@@ -36,3 +36,21 @@
     - Search : movie dataset
     - Search : related works about linking of movie dataset
 - Presenter : Cheonsol Lee
+
+### (2021.07.15) Movie dataset linking
+- Purpose : Robust Movie Dataset Matching
+- Data : MovieLens, IMDb top 1000
+- Direction : 
+    - MovieLens-link.csv(right answer)
+    - 
+- Problem
+    - Difficulty connecting OTT meta data
+    - Difficulty in linking other forms' meta data
+- Solution
+    - Provision of integrated solutions for OTTs
+- To do
+    - Small data completion using IMDb top 30  ex) <title, I, M>
+    - Case Study : Even if the title is different, they judge the same movie by looking at the similarity of the feature
+    - ex) Wiki, Title, Year, Genre, Director, Actor, Levenshtein Distance
+ 
+
