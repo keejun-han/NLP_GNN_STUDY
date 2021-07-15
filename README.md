@@ -50,7 +50,7 @@
     - Provision of integrated solutions for OTTs
 - To do
     - Small data completion using IMDb top 30  ex) <title, I, M>
-    - Case Study : Even if the title is different, they judge the same movie by looking at the similarity of the feature
+    - Case Study : Even if the title is different, judge the same movie by looking at the similarity of the feature
     - ex) Wiki, Title, Year, Genre, Director, Actor, Levenshtein Distance
  
 
