@@ -42,7 +42,6 @@
 - Data : MovieLens, IMDb top 1000
 - Direction : 
     - MovieLens-link.csv(right answer)
-    - 
 - Problem
     - Difficulty connecting OTT meta data
     - Difficulty in linking other forms' meta data
