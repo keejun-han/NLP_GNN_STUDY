@@ -39,7 +39,7 @@
 
 ### (2021.07.15) Movie dataset linking
 - Purpose : Robust Movie Dataset Matching
-- Data : MovieLens, IMDb top 1000
+- Data : [MovieLens](https://www.kaggle.com/grouplens/movielens-20m-dataset), [IMDb top 1000](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 - Direction : 
     - [MovieLens]-link.csv(right answer)
     - Movie contents profiling for recommender system
