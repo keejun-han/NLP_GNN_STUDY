@@ -41,8 +41,8 @@
 - Purpose : Robust Movie Dataset Matching
 - Data : MovieLens, IMDb top 1000
 - Direction : 
-    - MovieLens-link.csv(right answer)
-    - Contents-profiling for recommender system
+    - [MovieLens]-link.csv(right answer)
+    - Movie contents profiling for recommender system
 - Problem
     - Difficulty connecting OTT meta data
     - Difficulty in linking other forms' meta data
