@@ -53,4 +53,12 @@
     - Case Study : Even if the title is different, judge the same movie by looking at the similarity of the feature
     - ex) Wiki, Title, Year, Genre, Director, Actor, Levenshtein Distance
  
+ ### (2021.08.11) Recommender System based on Rating and Sentiment Analysis using GNN
+- Purpose : Relational Recommendation using GNN
+- Data : [Rotten Tomato-2020](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
+- Direction : 
+    - Sentiment analysis based on review data using BERT
+    - Review-Triple, Movie-Triple
+    - Ranking films for any user to give positive reviews
+    - Relational recommendation using movie meta data
 
