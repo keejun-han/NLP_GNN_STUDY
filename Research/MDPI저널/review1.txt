@@ -1,0 +1,16 @@
+this paper proposed a improvement recommendation method based on IGMC and sentimeant&emotion side information. It's well writing, and The research method and result looks  good. 
+
+besides these there are  several comments :
+
+1) the cinematic experience is somewhat broadly for this paper, since only sentiment and emotion factor was applied. maybe there is no bad effect even without this concept in the paper
+
+2)it seems that the authors make some improvement on the original loss function of IGMC, but lack of detail desscription.
+
+3) in Figure 2 ,the first box illustrates there is a web crawling process ,however, exist dataset :Rotten Tomatoes and Amazon Product dataset are used.
+
+4)could you please give more information of the resean or motivation to combing these two dataset?
+
+5)if applying sentiment and emotion feature into the algorithm ,the accuracy of the classification is very important ,although the authors denote if in 3.B, maybe it could be described with more information .
+
+Thanks ,good luck.
+

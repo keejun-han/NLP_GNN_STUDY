@@ -1,0 +1,11 @@
+1. Related works only discuss related graph-based methods. The recommender system's main components, which is the core of the research, are not discussed. Add and review the recommendation system in more detail using a graph-based approach and discuss the differences between the proposed research and the previous works.
+
+2. Evaluation of results and comparison of results are not discussed with previous works so that the effectiveness of the methodology used is doubtful.
+
+3. Research emphasizes that sentiment and emotion provide improved performance compared to previous studies.
+
+4. The modeling used is not described in detail. Add details in the pseudocode or mathematical model to the input and output of the model or process it contains.
+
+5. Performance is discussed using a traditional approach. Add a performance comparison for the approach using Graph-NN versus the proposed approach.
+
+6. 75% of references in the Bibliography must be from the last 3 years.
