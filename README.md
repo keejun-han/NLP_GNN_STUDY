@@ -1,7 +1,7 @@
 # NLP_GNN_STUDY
 
 ### Members
-    Keejun-han, Cheonsol-Lee, Soyoung-Cho
+    Keejun-Han, Cheonsol-Lee, Donghee-Han, Daehee-Kim, Jongwoo-Kim
 
 ### Dataset
 1. NAVER sentiment movie corpus: https://github.com/e9t/nsmc
